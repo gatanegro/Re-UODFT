@@ -1,3 +1,27 @@
+## 📢 Join the Community!
+
+Discussion, questions, and collaboration for this project are hosted in our central community repo:  
+👉 [gatanegro/community](https://github.com/gatanegro/community/discussions)
+
+- Share discoveries, suggestions, and ideas.
+- Ask questions about the research.
+- Fork this repo to continue your own work—direct changes are not permitted.
+
+**You must have a GitHub account to participate in discussions.**
+
+
+## Research & Contribution Policy
+
+This repository contains original research, mathematics, and unconventional approaches.  
+**Please do not submit pull requests or issues requesting changes.**  
+If you wish to pursue related research, fork this repository and continue independently.
+
+> Note: Apparent errors or unconventional methods are intentional and part of new theoretical work.
+
+
+
+
+
 I introduce the Collatz-Octave Framework (COM) as a universal structuring principle for mathematical periodicity, number theory, and quantum scaling.
 
 This model describes recursive harmonic scaling in numerical sequences, revealing deep connections between prime distributions, the Riemann Hypothesis (RH), and modular renormalization techniques.
